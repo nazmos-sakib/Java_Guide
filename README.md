@@ -12,7 +12,7 @@
 # [Inheritance]()
 # [Package]()
 # [RegX]()
-# []()
+# [Lamda]()
 # []()
 # []()
 # []()
